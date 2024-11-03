@@ -1,0 +1,6 @@
+EXPORTS
+	MyGetVolumeInformation @1
+	SetSerialNumber @5
+	FunctionAttach @2
+	InjectToThread @3
+	InjectToProcess @4

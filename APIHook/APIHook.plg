@@ -1,0 +1,47 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: APIHook - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2E9.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "APIHOOK_EXPORTS" /Fp"Debug/APIHook.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Program Files\Microsoft Visual Studio\MyProjects\APIHook\detoured.cpp"
+"D:\Program Files\Microsoft Visual Studio\MyProjects\APIHook\detours.cpp"
+"D:\Program Files\Microsoft Visual Studio\MyProjects\APIHook\disasm.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2E9.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2EA.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /dll /incremental:yes /pdb:"Debug/APIHook.pdb" /debug /machine:I386 /def:".\ApiHook.def" /out:"Debug/APIHook.dll" /implib:"Debug/APIHook.lib" /pdbtype:sept 
+".\Debug\creatwth.obj"
+".\Debug\detoured.obj"
+".\Debug\detours.obj"
+".\Debug\disasm.obj"
+".\Debug\image.obj"
+".\Debug\modules.obj"
+".\Debug\detoured.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2EA.tmp"
+<h3>Output Window</h3>
+Compiling...
+detoured.cpp
+d:\program files\microsoft visual studio\myprojects\apihook\detoured.cpp(167) : error C2065: 'OpenThread' : undeclared identifier
+d:\program files\microsoft visual studio\myprojects\apihook\detoured.cpp(167) : error C2440: 'initializing' : cannot convert from 'int' to 'void *'
+        Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+detours.cpp
+d:\program files\microsoft visual studio\myprojects\apihook\detours.cpp(22) : fatal error C1189: #error :  Must define one of DETOURS_X86, DETOURS_X64, or DETOURS_IA64
+disasm.cpp
+d:\program files\microsoft visual studio\myprojects\apihook\disasm.cpp(19) : fatal error C1189: #error :  Must define one of DETOURS_X86, DETOURS_X64, or DETOURS_IA64
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+APIHook.dll - 4 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

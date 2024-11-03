@@ -1,0 +1,5 @@
+D:\My Works\免重启硬盘序列号修改器\src\APIHook.Interop\bin\Debug\Net.SuperLiuJian.APIHook.Interop.dll
+D:\My Works\免重启硬盘序列号修改器\src\APIHook.Interop\bin\Debug\Net.SuperLiuJian.APIHook.Interop.pdb
+D:\My Works\免重启硬盘序列号修改器\src\APIHook.Interop\obj\Debug\ResolveAssemblyReference.cache
+D:\My Works\免重启硬盘序列号修改器\src\APIHook.Interop\obj\Debug\Net.SuperLiuJian.APIHook.Interop.dll
+D:\My Works\免重启硬盘序列号修改器\src\APIHook.Interop\obj\Debug\Net.SuperLiuJian.APIHook.Interop.pdb

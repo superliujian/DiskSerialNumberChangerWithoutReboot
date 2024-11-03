@@ -1,0 +1,8 @@
+D:\My Works\免重启硬盘序列号修改器\src\SharpChangeDiskId\bin\Debug\SharpChangeDiskId.exe
+D:\My Works\免重启硬盘序列号修改器\src\SharpChangeDiskId\bin\Debug\SharpChangeDiskId.pdb
+D:\My Works\免重启硬盘序列号修改器\src\SharpChangeDiskId\obj\Debug\ResolveAssemblyReference.cache
+D:\My Works\免重启硬盘序列号修改器\src\SharpChangeDiskId\obj\Debug\SharpChangeDiskId.Form1.resources
+D:\My Works\免重启硬盘序列号修改器\src\SharpChangeDiskId\obj\Debug\SharpChangeDiskId.Properties.Resources.resources
+D:\My Works\免重启硬盘序列号修改器\src\SharpChangeDiskId\obj\Debug\SharpChangeDiskId.csproj.GenerateResource.Cache
+D:\My Works\免重启硬盘序列号修改器\src\SharpChangeDiskId\obj\Debug\SharpChangeDiskId.exe
+D:\My Works\免重启硬盘序列号修改器\src\SharpChangeDiskId\obj\Debug\SharpChangeDiskId.pdb
